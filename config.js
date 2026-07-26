@@ -1,7 +1,7 @@
 const BOT_NAME_FANCY = '✦ 𝐀𝐍𝐔 𝐌𝐃 ✦';
 
 const config = {
-  AUTO_VIEW_STATUS: 'false',
+  AUTO_VIEW_STATUS: 'true',
   AUTO_LIKE_STATUS: 'true',
   AUTO_RECORDING: 'false',
   AUTO_VV_UNLOCK: 'false',
