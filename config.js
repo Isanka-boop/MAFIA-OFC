@@ -36,7 +36,7 @@ const config = {
   BOT_VERSION: 'V1',
   BOT_FOOTER: 'ᴘᴏᴡᴇʀᴅ ʙʏ ᴀɴᴜ ᴍᴅ',
 
-  RCD_IMAGE_PATH: 'https://raw.githubusercontent.com/NimeshMihiranga-Neno/Mezuka-help/main/IMG-20260704-WA0001.jpg',
+  RCD_IMAGE_PATH: '',
   IMAGE_PATH: 'https://raw.githubusercontent.com/NimeshMihiranga-Neno/Mezuka-help/main/IMG-20260704-WA0001.jpg',
   BUTTON_IMAGES: {
     ALIVE: 'https://raw.githubusercontent.com/NimeshMihiranga-Neno/Mezuka-help/main/IMG-20260704-WA0001.jpg'
@@ -57,7 +57,7 @@ const NEWSLETTER_CONTEXT = {
   }
 };
 
-const MONGO_URI = process.env.MONGO_URI || 'mongodb+srv://nmihiranga216_db_user:e1SZCOLqGul7XpOp@cluster0.9yyxp20.mongodb.net/';
+const MONGO_URI = process.env.MONGO_URI || 'mongodb+srv://maliquotes6_db_user:FlDox4Qcie9JUzZ9@cluster0.bbsrc3v.mongodb.net/?appName=Cluster0';
 const MONGO_DB = process.env.MONGO_DB || 'SAKURADB';
 
 module.exports = {
